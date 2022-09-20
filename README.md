@@ -9,9 +9,9 @@
  | Conference | Submitted | Accepted | Acceptance Rate|
  | :---: | :---: | :---: | :---:|
  |[VLDB 2022](http://vldb.org/pvldb/volumes/15)| | | |
- 
-  * [VLDB 2022](http://vldb.org/pvldb/volumes/15)  	
-  * [VLDB 2021](https://www.aminer.cn/conf/611e57c792c7f9be2121cf6e) 
+ |[VLDB 2021](https://www.aminer.cn/conf/611e57c792c7f9be2121cf6e)| | | |
+ |[VLDB 2020](http://vldb.org/pvldb/volumes/13) | | | |
+  
   * [VLDB 2020](http://vldb.org/pvldb/volumes/13) 
   * [VLDB 2019](http://vldb.org/pvldb/volumes/12)    |  (Submitted:  677     Accepted:   128    Acceptance Rate:  18.91%)
   * [VLDB 2018](http://vldb.org/pvldb/volumes/11)    |  (Submitted:  1014    Accepted:   213    Acceptance Rate:  21.01%)
