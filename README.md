@@ -39,33 +39,40 @@
 #####  POPL Papers 
 
 | Conference | Submitted | Accepted | Acceptance Rate|
-|[POPL 2021](https://www.aminer.cn/conf/611d03d992c7f9be21d5f64e) | | | |
+| :---: | :---: | :---: | :---:|
+|[POPL 2021](https://www.aminer.cn/conf/611d03d992c7f9be21d5f64e)| | | |
 
 ### 【ML/DL】
 
 #####  ICLR Papers 
 
 | Conference | Submitted | Accepted | Acceptance Rate|
-|[ICLR 2021](https://www.aminer.cn/conf/5fbf0f4b92c7f9be218c9605) | | | |
+| :---: | :---: | :---: | :---:|
+|[ICLR 2021](https://www.aminer.cn/conf/5fbf0f4b92c7f9be218c9605)| | | |
 
 ### 【NLP】
 
 ###### EMNLP Papers 
 
 | Conference | Submitted | Accepted | Acceptance Rate|
-|[EMNLP 2021](https://www.aminer.cn/conf/613f4cae92c7f9be2110f43e) 	 | | | |
-|[EMNLP 2020](https://www.aminer.cn/conf/5f5f30e292c7f9be21d4cef7) 	 	 | | | |
+| :---: | :---: | :---: | :---:|
+|[EMNLP 2021](https://www.aminer.cn/conf/613f4cae92c7f9be2110f43e)| | | |
+|[EMNLP 2020](https://www.aminer.cn/conf/5f5f30e292c7f9be21d4cef7)| | | |
 
 
 ##### ACL Papers 
+| Conference | Submitted | Accepted | Acceptance Rate|
+| :---: | :---: | :---: | :---:|
+|[ACL 2021](https://www.aminer.cn/conf/6094ee6e92c7f9be21824fd3)| | | |
 
-* [ACL 2021](https://www.aminer.cn/conf/6094ee6e92c7f9be21824fd3) 	
 
 ### 【Robtics】 
 
 #####  RSS Papers 
+| Conference | Submitted | Accepted | Acceptance Rate|
+| :---: | :---: | :---: | :---:|
+|[RSS 2022](https://roboticsconference.org/program/papers/)| | | |
 
-* [RSS 2022](https://roboticsconference.org/program/papers/) 	
 
 
 
