@@ -30,7 +30,7 @@
 
  | Conference | Submitted | Accepted | Acceptance Rate|
  | :---: | :---: | :---: | :---:|
- |[SIGGRAPH/SIGGRAPH Aisa](http://kesen.realtimerendering.com/) | | | |
+ |[SIGGRAPH](http://kesen.realtimerendering.com/) | | | |
 
 
 
