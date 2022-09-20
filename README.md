@@ -28,9 +28,9 @@
 
 ### 【Compter Graphics】
 
- | Conference | Submitted | Accepted | Acceptance Rate|
+ | Conference | Submitted | Accepted |
  | :---: | :---: | :---: | :---:|
- |[SIGGRAPH/SIGGRAPH Aisa](http://kesen.realtimerendering.com/) | | | |
+ |[SIGGRAPH/SIGGRAPH Aisa](http://kesen.realtimerendering.com/) | | |
 
 
 
