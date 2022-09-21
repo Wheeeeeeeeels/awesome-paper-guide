@@ -77,9 +77,6 @@
 
 ##### ICRA Papers
 
-
-https://www.grasp.upenn.edu/news/icra-2022-grasp-accepted-papers/
-
 | Conference | Submitted | Accepted | Acceptance Rate|
 | :---: | :---: | :---: | :---:|
 |[ICRA 2022](https://www.grasp.upenn.edu/news/icra-2022-grasp-accepted-papers/)| N/A | N/A | N/A |
