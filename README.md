@@ -64,7 +64,7 @@
 |[IJCAI 2022](https://www.ijcai.org/proceedings/2022/)| | | |
 
 ### 【Computer Vision】
-##### 【CVPR】
+##### CVPR Papers
 | Conference | Submitted | Accepted | Acceptance Rate|
 | :---: | :---: | :---: | :---:|
 |[CVPR 2022](https://openaccess.thecvf.com/CVPR2022?day=all)| | | |
