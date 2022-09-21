@@ -64,7 +64,7 @@
 ##### ACL Papers 
 | Conference | Submitted | Accepted | Acceptance Rate|
 | :---: | :---: | :---: | :---:|
-|[ACL 2021](https://www.aminer.cn/conf/6094ee6e92c7f9be21824fd3)| | | |
+|[ACL 2021](https://www.aminer.cn/conf/6094ee6e92c7f9be21824fd3)|N/A |N/A |N/A |
 
 
 ### 【Robtics】 
@@ -72,9 +72,17 @@
 #####  RSS Papers 
 | Conference | Submitted | Accepted | Acceptance Rate|
 | :---: | :---: | :---: | :---:|
-|[RSS 2022](https://roboticsconference.org/program/papers/)| | | |
+|[RSS 2022](https://roboticsconference.org/program/papers/)|N/A |N/A |N/A |
 
 
+##### ICRA Papers
+
+
+https://www.grasp.upenn.edu/news/icra-2022-grasp-accepted-papers/
+
+| Conference | Submitted | Accepted | Acceptance Rate|
+| :---: | :---: | :---: | :---:|
+|[ICRA 2022](https://www.grasp.upenn.edu/news/icra-2022-grasp-accepted-papers/)| N/A | N/A | N/A |
 
 
 
