@@ -45,11 +45,23 @@
 |[POPL 2020](https://popl20.sigplan.org/track/POPL-2020-Research-Papers#event-overview) | 
 ### 【ML/DL】
 
+#####  ICML Papers 
+| Conference | Submitted | Accepted | Acceptance Rate|
+| :---: | :---: | :---: | :---:|
+|[ICML 2022](http://proceedings.mlr.press/v162/)| | | |
+
 #####  ICLR Papers 
 
 | Conference | Submitted | Accepted | Acceptance Rate|
 | :---: | :---: | :---: | :---:|
+|[ICLR 2022](https://openreview.net/group?id=ICLR.cc/2022/Conference)| | | |
 |[ICLR 2021](https://www.aminer.cn/conf/5fbf0f4b92c7f9be218c9605)| | | |
+
+
+### 【CVPR】
+| Conference | Submitted | Accepted | Acceptance Rate|
+| :---: | :---: | :---: | :---:|
+|[CVPR 2022](https://openaccess.thecvf.com/CVPR2022?day=all)| | | |
 
 ### 【NLP】
 
@@ -64,7 +76,8 @@
 ##### ACL Papers 
 | Conference | Submitted | Accepted | Acceptance Rate|
 | :---: | :---: | :---: | :---:|
-|[ACL 2021](https://www.aminer.cn/conf/6094ee6e92c7f9be21824fd3)|N/A |N/A |N/A |
+|[ACL 2022](https://www.aminer.cn/conf/6094ee6e92c7f9be21824fd3)|N/A |N/A |N/A |
+|[ACL 2021](https://dblp.uni-trier.de/db/conf/acl/index.html)|N/A |N/A |N/A |
 
 
 ### 【Robtics】 
@@ -81,6 +94,12 @@
 | :---: | :---: | :---: | :---:|
 |[ICRA 2022](https://www.grasp.upenn.edu/news/icra-2022-grasp-accepted-papers/)| N/A | N/A | N/A |
 
+### 【Interdiscipline】 
+
+##### WWW Papers
+| Conference | Submitted | Accepted | Acceptance Rate|
+| :---: | :---: | :---: | :---:|
+|[WWW 2022](https://www2022.thewebconf.org/accepted-papers/)| N/A | N/A | N/A |
 
 
 
