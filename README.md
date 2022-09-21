@@ -58,8 +58,13 @@
 |[ICLR 2022](https://openreview.net/group?id=ICLR.cc/2022/Conference)| | | |
 |[ICLR 2021](https://www.aminer.cn/conf/5fbf0f4b92c7f9be218c9605)| | | |
 
+###### IJCAI Papers
+| Conference | Submitted | Accepted | Acceptance Rate|
+| :---: | :---: | :---: | :---:|
+|[IJCAI 2022](https://www.ijcai.org/proceedings/2022/)| | | |
 
-### 【CVPR】
+### 【Computer Vision】
+##### 【CVPR】
 | Conference | Submitted | Accepted | Acceptance Rate|
 | :---: | :---: | :---: | :---:|
 |[CVPR 2022](https://openaccess.thecvf.com/CVPR2022?day=all)| | | |
@@ -106,7 +111,7 @@
 
 
 
-
+https://www.ijcai.org/proceedings/2022/
 
 
 
