@@ -1,7 +1,7 @@
 ## Paper Guide
 
 * Page maintained by Wheels
-* [SICHUB](https://www.3800808.com/) |  [Update at 2022/09/21](#Page maintained by Wheels) 
+* [SICHUB](https://www.3800808.com/) |  [Update at 2022/09/21]() 
 
 ### 【Data Base】
 
