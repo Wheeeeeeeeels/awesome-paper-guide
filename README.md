@@ -112,6 +112,7 @@
 ### 【Other Resources】
 
 * [CCF DeadLine](https://github.com/Hsword/ccf-deadlines) | [CCF DeadLine Url](https://ccfddl.github.io/) 
+* [AI DeadLine](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM)
 
 
 
