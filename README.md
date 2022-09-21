@@ -1,7 +1,7 @@
-## A Guide For GuanShui
+## Paper Guide
 
 * Page maintained by Wheels
-
+* Welcome contribute this project
 
 ### 【Data Base】
 
