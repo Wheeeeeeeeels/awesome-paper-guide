@@ -111,7 +111,7 @@
 
 ### 【Other Resources】
 
-* [CCF DeadLine](https://github.com/Hsword/ccf-deadlines) | [CCF DeadLine Url](https://ccfddl.github.io/)
+* [CCF DeadLine](https://github.com/Hsword/ccf-deadlines) | [CCF DeadLine Url](https://ccfddl.github.io/) 
 
 
 
