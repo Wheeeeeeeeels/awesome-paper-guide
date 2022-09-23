@@ -24,6 +24,25 @@
  |[VLDB 2009](http://vldb.org/pvldb/volumes/2)  |  |   |  |
  |[VLDB 2008](http://vldb.org/pvldb/volumes/1)  |  |   |  |
  
+#####  SIGMOD Papers 
+ 
+ | Conference | Submitted | Accepted | Acceptance Rate|
+ | :---: | :---: | :---: | :---:|
+ |[SIGMOD 2022](http://vldb.org/pvldb/volumes/15)| | | |
+ 
+ 
+ 
+
+### 【System Design】
+
+##### OSDI Papers 
+
+| Conference | Submitted | Accepted | Acceptance Rate|
+| :---: | :---: | :---: | :---:|
+|[OSDI 2022](http://vldb.org/pvldb/volumes/15)| | | |
+|[OSDI 2022](http://vldb.org/pvldb/volumes/15)| | | |
+|[OSDI 2020](https://www.usenix.org/conference/osdi20/accepted-papers)| | | |
+
 
 
 ### 【Compter Graphics】
