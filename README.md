@@ -144,7 +144,7 @@
 * [AI DeadLine](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM)
 
 ### 【Paper Tools】
-* [zotero+markdown](https://github.com/fei0810/markdownhere4zotero)@fei0810
+* [zotero+markdown](https://github.com/fei0810/markdownhere4zotero)
 
 
   
