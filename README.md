@@ -145,6 +145,7 @@
 
 ### 【Paper Tools】
 * [zotero+markdown](https://github.com/fei0810/markdownhere4zotero)
+* [zotero+betternotes](https://github.com/windingwind/zotero-better-notes/releases)
 
 
   
