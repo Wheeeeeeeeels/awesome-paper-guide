@@ -138,13 +138,13 @@
 |[WWW 2022](https://www2022.thewebconf.org/accepted-papers/)| N/A | N/A | N/A |
 
 
-### 【Other Resources】
+### 【Other Paper Resources】
 
 * [CCF DeadLine](https://github.com/Hsword/ccf-deadlines) | [CCF DeadLine Url](https://ccfddl.github.io/) 
 * [AI DeadLine](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM)
 
-
-
+### 【Paper Tools】
+* [zotero+markdown](https://github.com/fei0810/markdownhere4zotero)@fei0810
 
 
   
