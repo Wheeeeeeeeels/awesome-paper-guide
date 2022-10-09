@@ -138,6 +138,10 @@
 | :---: | :---: | :---: | :---:|
 |[WWW 2022](https://www2022.thewebconf.org/accepted-papers/)| N/A | N/A | N/A |
 
+##### JF Papers
+| Conference | Submitted | Accepted | Acceptance Rate|
+| :---: | :---: | :---: | :---:|
+|[JF 2022](https://onlinelibrary.wiley.com/journal/15406261)| N/A | N/A | N/A |
 
 ### 【Other Paper Resources】
 
