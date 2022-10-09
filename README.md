@@ -8,6 +8,7 @@
 #####  VLDB Papers 
  | Conference | Submitted | Accepted | Acceptance Rate|
  | :---: | :---: | :---: | :---:|
+  |[VLDB 2022](http://vldb.org/pvldb/volumes/16)| | | |
  |[VLDB 2022](http://vldb.org/pvldb/volumes/15)| | | |
  |[VLDB 2021](https://www.aminer.cn/conf/611e57c792c7f9be2121cf6e)| | | |
  |[VLDB 2020](http://vldb.org/pvldb/volumes/13) | | | |
