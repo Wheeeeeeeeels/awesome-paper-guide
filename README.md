@@ -146,6 +146,12 @@
 | :---: | :---: | :---: | :---:|
 |[JF 2022](https://onlinelibrary.wiley.com/journal/15406261)| N/A | N/A | N/A |
 
+##### WINE Papers
+| Conference | Submitted | Accepted | Acceptance Rate|
+| :---: | :---: | :---: | :---:|
+|[WINE 2022]()| N/A | N/A | N/A |
+
+
 ### 【Other Paper Resources】
 
 * [CCF DeadLine](https://github.com/Hsword/ccf-deadlines) | [CCF DeadLine Url](https://ccfddl.github.io/) 
