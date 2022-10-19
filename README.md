@@ -149,7 +149,7 @@
 ##### WINE Papers
 | Conference | Submitted | Accepted | Acceptance Rate|
 | :---: | :---: | :---: | :---:|
-|[WINE 2022]()| N/A | N/A | N/A |
+|[WINE 2022](https://www.cs.rpi.edu/wine2022/#accepted-papers)| N/A | N/A | N/A |
 
 
 ### 【Other Paper Resources】
