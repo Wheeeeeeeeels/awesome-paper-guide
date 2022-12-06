@@ -124,7 +124,7 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 * **[MyStyle: A Personalized Generative Prior](https://arxiv.org/pdf/2203.17272.pdf)**
 
 * **DISCO: Disentangled Image Colorization via Global Anchors AI,图像着色**
-* **[NeuralMarker: A Framework for Learning General Marker Correspondence](https://arxiv.org/pdf/2209.08896.pdf)**\
+* **[NeuralMarker: A Framework for Learning General Marker Correspondence](https://arxiv.org/pdf/2209.08896.pdf)**
 * **[DynaGAN: Dynamic Few-shot Adaptation of GANs to Multiple Domains](https://arxiv.org/pdf/2211.14554.pdf)**
 * **[Dr.3D: Adapting 3D GANs to Artistic Drawings]** **[<u>code</u>](https://github.com/JinWonjoon/Dr.3D)**
 * **[Shape Completion with Points in the Shadow](https://arxiv.org/pdf/2209.08345.pdf)**
@@ -172,7 +172,7 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 * **[Exact 3D Path Generation via 3D Cam-Linkage Mechanisms](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGAsia-3DCamLinkage/download/2022-SIGAsia-3DCamLinkage.pdf)**
 * **[Planar panels and planar supporting beams in architectural structures](https://www.geometrie.tuwien.ac.at/geom/ig/publications/planarbeams/planarbeams.pdf)**
 
-* **[Declarative Specification for Unstructured Mesh Editing Algorithms](https://yixin-hu.github.io/wmtk.pdf)** **[[<u>code</u>]](https://github.com/wildmeshing/wildmeshing-toolkit)**
+* **[Declarative Specification for Unstructured Mesh Editing Algorithms](https://yixin-hu.github.io/wmtk.pdf)** **[<u>code</u>](https://github.com/wildmeshing/wildmeshing-toolkit)**
 
 * **[DeepJoin: Learning a Joint Occupancy, Signed Distance, and Normal Field Function for Shape Repair](https://arxiv.org/pdf/2211.12400.pdf)**
 
@@ -253,7 +253,7 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 
 #### Graphics systems and interfaces
 
-* **[DifferSketching: How Differently Do People Sketch 3D Objects?](https://chufengxiao.github.io/DifferSketching/)** **[[<u>code</u>]](https://github.com/wildmeshing/wildmeshing-toolkit)**
+* **[DifferSketching: How Differently Do People Sketch 3D Objects?](https://chufengxiao.github.io/DifferSketching/)** **[<u>code</u>](https://github.com/wildmeshing/wildmeshing-toolkit)**
 
 * **[Neural Brushstroke Engine: Learning a Latent Style Space of Interactive Drawing Tools]()**
 
