@@ -6,7 +6,7 @@
 
 * **Interactive Exploration of Tension-compression Mixed Shells(Mechanics) 力学**
 
-* **Motion Guided Deep Dynamic 3D Garments 动画-服装**
+* **Motion Guided Deep Dynamic 3D Garments 动画-服装** **[<u>code</u>](https://github.com/MengZephyr/Motion-Guided-Deep-Dynamic-3D-Garment)**
 
 * **Differentiable Hybrid Traffic Simulation** **交通-仿真**
 
