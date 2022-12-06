@@ -262,4 +262,4 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 
 ####  GAMES
 
-* **Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation 将Sprite进行解构**
+* **[Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation 将Sprite进行解构](https://lllyasviel.github.io/Style2PaintsResearch/sa2022/index.html)**
