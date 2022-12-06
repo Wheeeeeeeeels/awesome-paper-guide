@@ -140,7 +140,6 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 ### GEOMTERY MODELING AND PROCESSING
 
 * **Computing Medial Axis Transform with Feature Preservation via Restricted Power Diagram**
-* **Computing Medial Axis Transform with Feature Preservation via Restricted Power Diagram**
 * **NH-Rep: Neural Halfspace Representations for Implicit Conversion of B-Rep Solids (THU)**
 * **[Globally Injective Flattening via a Reduced Harmonic Subspace ]()**
 
@@ -208,7 +207,7 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 * **Pupil-aware Holography**
 * **Neural Photo-Finishing (CV+AI)**
 * **TileGen: Tileable, Controllable Material Generation and Capture(GAN,TILE)**
-* **Color-Perception-Guided Display Power Reduction for Virtual Reality VR设备省电**
+* **[Color-Perception-Guided Display Power Reduction for Virtual Reality](https://budmonde.com/projects/vr-power-saver) VR设备省电**
 * **[Garment Avatars: Realistic Cloth Driving using Pattern Registration](https://arxiv.org/pdf/2206.03373.pdf)**
 * **[Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://github.com/Aubrey-ao/HumanBehaviorAnimation)**
 * **[SCULPTOR: Skeleton-Consistent Face Creation Using a Learned Parametric Generator]()**
