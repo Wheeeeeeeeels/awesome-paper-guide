@@ -51,9 +51,6 @@ Grid-Based Fluids**
 * **ElastoMonolith: A Monolithic Optimization-based Liquid Solver for
 Contact-Aware Elastic-Solid Coupling** *
 
-
-
-
 ### Rendering
 
 * **Differentiable rendering using RGBXY derivatives and optimal transport**
@@ -194,8 +191,6 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 * **[Asynchronous Collaborative Autoscanning with Mode Switching for Multi-Robot Scene Reconstruction](https://arxiv.org/pdf/2210.04413.pdf)**
 * **NeuralRoom: Geometry-Constrained Neural Implicit Surfaces for Indoor Scene Reconstruction**
 * **[FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing](https://arxiv.org/pdf/2208.05751.pdf)**
-
-
 
 
 ### TOOLS
