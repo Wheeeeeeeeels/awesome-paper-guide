@@ -37,7 +37,7 @@ Grid-Based Fluids**
 
 ##### GarmentS
 
-* **Motion Guided Deep Dynamic 3D Garments** **[<u>code</u>](https://github.com/MengZephyr/Motion-Guided-Deep-Dynamic-3D-Garment)**
+* **[Motion Guided Deep Dynamic 3D Garments](http://geometry.cs.ucl.ac.uk/publications.php)** **[<u>code</u>](https://github.com/MengZephyr/Motion-Guided-Deep-Dynamic-3D-Garment)**
 
 * **[Physical Interaction: Reconstructing Hand-object Interactions with Physics](http://xufeng.site/)**
 
