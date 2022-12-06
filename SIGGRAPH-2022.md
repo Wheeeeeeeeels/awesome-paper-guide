@@ -224,7 +224,7 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 
 #### Video Style Transfer
 
-* **VToonify: Controllable High-Resolution Portrait Video Style Transfer**
+* **[VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://arxiv.org/pdf/2209.11224.pdf)**
 
 #### Video Editing
 
