@@ -58,6 +58,9 @@ Contact-Aware Elastic-Solid Coupling** *
 * **Efficient Differentiation of Pixel Reconstruction Filters for Path-Space Differentiable Rendering**
 * **Neural Parameterization for Dynamic Human Head Editing**
 
+####  Reflectance modeling
+
+* **[Affordable Spectral Measurements of Translucent Materials](https://cgg.mff.cuni.cz/wp-content/uploads/2022/09/Affordable_Spectral_Measurements_of_Translucent_Materials.pdf)**
 
 
 * **QuadStream: A Quad-Based Scene Streaming Architecture for Novel Viewpoint Reconstruction**
@@ -183,12 +186,12 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 ### RECONSTRUCTING
 
 * **Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video 3D重建 NeRF(ECCV) 广泛应用**
-* **Stochastic Poisson Surface Reconstruction**
+* **[Stochastic Poisson Surface Reconstruction](https://www.dgp.toronto.edu/projects/stochastic-psr/)**
 * **3QNet: 3D Point Cloud Geometry Quantization Compression Network**
 * **LaplacianFusion: Detailed 3D Clothed-Human Body Reconstruction**
 
 * **[Asynchronous Collaborative Autoscanning with Mode Switching for Multi-Robot Scene Reconstruction](https://arxiv.org/pdf/2210.04413.pdf)**
-* **NeuralRoom: Geometry-Constrained Neural Implicit Surfaces for Indoor Scene Reconstruction**
+* **[NeuralRoom: Geometry-Constrained Neural Implicit Surfaces for Indoor Scene Reconstruction}(https://arxiv.org/pdf/2210.06853.pdf)**
 * **[FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing](https://arxiv.org/pdf/2208.05751.pdf)**
 
 
