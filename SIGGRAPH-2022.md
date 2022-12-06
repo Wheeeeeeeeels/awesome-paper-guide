@@ -6,8 +6,6 @@
 
 * **Interactive Exploration of Tension-compression Mixed Shells(Mechanics) 力学**
 
-* **Motion Guided Deep Dynamic 3D Garments 动画-服装** **[<u>code</u>](https://github.com/MengZephyr/Motion-Guided-Deep-Dynamic-3D-Garment)**
-
 * **Differentiable Hybrid Traffic Simulation** **交通-仿真**
 
 * **Breaking Good: Fracture Modes for Realtime Destruction** **力学**
@@ -36,6 +34,9 @@ Grid-Based Fluids**
 
 
 #### Physics-Based Animation
+
+##### GarmentS
+* **Motion Guided Deep Dynamic 3D Garments ** **[<u>code</u>](https://github.com/MengZephyr/Motion-Guided-Deep-Dynamic-3D-Garment)**
 
 * **[Physical Interaction: Reconstructing Hand-object Interactions with Physics](http://xufeng.site/)**
 
