@@ -35,16 +35,16 @@ Grid-Based Fluids**
 * **[Fast Stabilization of Inducible Magnet Simulation]()**
 
 
-##### Physics-Based Animation
+#### Physics-Based Animation
 
 * **[Physical Interaction: Reconstructing Hand-object Interactions with Physics](http://xufeng.site/)**
 
 
-##### Reinforcement learning
+#### Reinforcement learning
 
 * **[ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters](https://heyuanyao-pku.github.io/Control-VAE/static/author_version.pdf)**
 
-#####  Physically-based simulation
+####  Physically-based simulation
 
 * **ElastoMonolith: A Monolithic Optimization-based Liquid Solver for
 Contact-Aware Elastic-Solid Coupling** *
@@ -67,7 +67,7 @@ Contact-Aware Elastic-Solid Coupling** *
 
 * **[Lightweight Neural Basis Functions for All-Frequency Shading](http://sites.cs.ucsb.edu/~lingqi/publications/paper_neural_basis.pdf)**
 
-##### Ray Tracing
+#### Ray Tracing
 
 
 * **[Neural James-Stein Combiner for Unbiased and Biased Renderings](http://www.j4lley.com/content/publications/2022-sigasia-neuraljs/pdf/SA22_neuralJS_paper.pdf)**
@@ -81,13 +81,13 @@ Contact-Aware Elastic-Solid Coupling** *
 * **[Unbiased Caustics Rendering Guided by Representative Specular Paths](https://wangningbei.github.io/2022/PathcutGuiding.html)**
 
 
-##### View synthesis
+#### View synthesis
 
 * **Neural Point Catacaustics for Novel-View Synthesis of Reflection**
 * **[Differentiable Point-Based Radiance Fields for Efficient View Synthesis](https://arxiv.org/pdf/2205.14330.pdf)**
 * **[VIINTER: View Interpolation with Implicit Neural Representations of Image](https://arxiv.org/pdf/2211.00722.pdf)**
 
-#####  Light Transport
+####  Light Transport
 
 * **Metappearance: Meta-Learning for Visual Appearance Reproduction**
 
@@ -96,12 +96,12 @@ Contact-Aware Elastic-Solid Coupling** *
 * [Woven Fabric Capture from a Single Photo](https://wangningbei.github.io/2022/Fabrics_files/paper_InverseSpongeCake.pdf)
 
 
-##### Non-photorealistic rendering
+#### Non-photorealistic rendering
 
 * [AgileAvatar: Stylized 3D Avatar Creation via Cascaded Domain Bridging](https://tiancheng-zhi.github.io/publications/SIGGRAPHAsia2022_agileavatar.pdf)
 
 
-##### Image-based rendering
+#### Image-based rendering
 
 * **[Dressing Avatars: Deep Photorealistic Appearance for Physically
 Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-deep-photorealistic-appearance-for-physically-simulated-clothing/)**
@@ -111,7 +111,7 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 * **[Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://arxiv.org/pdf/2205.15285.pdf)** **[<u>code</u>](https://github.com/hustvl/TiNeuVox)** **[<u>video</u>](https://www.youtube.com/watch?v=sROLfK_VkCk)**
 
 
-##### Texture representations
+#### Texture representations
 
 * **[Gloss management for consistent reproduction of real and virtual objects]()**
 
@@ -119,7 +119,7 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 ### COMPUTER VISION
 
 
-##### IMAGE PROCESSING
+#### IMAGE PROCESSING
 
 * **[MyStyle: A Personalized Generative Prior](https://arxiv.org/pdf/2203.17272.pdf)**
 
@@ -130,7 +130,7 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 * **[Shape Completion with Points in the Shadow](https://arxiv.org/pdf/2209.08345.pdf)**
 
 
-##### IMAGE manipulation
+#### IMAGE manipulation
 
 * **[Production-Ready Face Re-Aging for Visual Effects](https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects/)**
 * **[Pivotal Tuning for Latent-based Editing of Real Images](https://arxiv.org/pdf/2106.05744.pdf)**
@@ -145,29 +145,29 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 * **NH-Rep: Neural Halfspace Representations for Implicit Conversion of B-Rep Solids (THU)**
 * **[Globally Injective Flattening via a Reduced Harmonic Subspace ]()**
 
-##### Point sampling
+#### Point sampling
 
 * **[Gaussian Blue Noise](https://arxiv.org/pdf/2206.07798.pdf)**
 
 
-##### Mesh geometry models
+#### Mesh geometry models
 
 * **[CLIP-Mesh: Generating textured meshes from text using pretrained image-text models](https://arxiv.org/pdf/2203.13333.pdf)**
 * **[Fast Editing of Singularities in Field-Aligned Stripe Patterns](https://drive.google.com/file/d/1UFDIff7Xa6qmWm69r03iYrnmCY7ztpdp/view)**
 
-##### Shape inference
+#### Shape inference
 
 * **[Rapid Face Asset Acquisition with Recurrent Feature Alignment](https://vgl.ict.usc.edu/Research/ReFA/ReFA_SIGA_final.pdf)**
 
 
-##### Shape analysis
+#### Shape analysis
 
 * **[Augmented Paths and Reodesics for Topologically-Stable Matching](https://user.ceng.metu.edu.tr/~ys/pubs/)**
 * **[Neural Wavelet-domain Diffusion for 3D Shape Generation](https://arxiv.org/pdf/2209.08725.pdf)**
 
 
 
-##### Shape modeling; Shape representations.
+#### Shape modeling; Shape representations.
 * **An Implicit Parametric Morphable Dental Model**
 * **[Exact 3D Path Generation via 3D Cam-Linkage Mechanisms](https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGAsia-3DCamLinkage/download/2022-SIGAsia-3DCamLinkage.pdf)**
 * **[Planar panels and planar supporting beams in architectural structures](https://www.geometrie.tuwien.ac.at/geom/ig/publications/planarbeams/planarbeams.pdf)**
@@ -176,9 +176,11 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 
 * **[DeepJoin: Learning a Joint Occupancy, Signed Distance, and Normal Field Function for Shape Repair](https://arxiv.org/pdf/2211.12400.pdf)**
 
-##### CAD
+#### CAD
 
 * **[[Reconstructing editable prismatic CAD from rounded voxel models]](https://arxiv.org/pdf/2209.01161.pdf)**
+
+* **[CAD2Sketch: Generating Concept Sketches from CAD Sequences]()**
 
 ### RECONSTRUCTING
 
@@ -202,9 +204,9 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 ### APPLICATION
 
 * **Affordable Spectral Measurements of Translucent Materials**
-* **VToonify: Controllable High-Resolution Portrait Video Style Transfer**
+
 * **Motion In-betweening via Two-stage Transformers 生成目标帧**
-* **CAD2Sketch: Generating Concept Sketches from CAD Sequences**
+
 * **Scene Synthesis from Human Motion**
 * **Pupil-aware Holography**
 * **Neural Photo-Finishing (CV+AI)**
@@ -212,23 +214,27 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 * **Color-Perception-Guided Display Power Reduction for Virtual Reality VR设备省电**
 * **[Garment Avatars: Realistic Cloth Driving using Pattern Registration](https://arxiv.org/pdf/2206.03373.pdf)**
 * **[Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://github.com/Aubrey-ao/HumanBehaviorAnimation)**
-* **[SCULPTOR: Skeleton-Consistent Face Creation Using a Learned Parametric Generator]**
+* **[SCULPTOR: Skeleton-Consistent Face Creation Using a Learned Parametric Generator]()**
 * **[Text2Light: Zero-Shot Text-Driven HDR Panorama Generation](https://arxiv.org/abs/2209.09898)** **[<u>code</u>]**
 * **NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields**
 * **[Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers]()**
 
 
-##### Video Editing
+#### Video Style Transfer
+
+* **VToonify: Controllable High-Resolution Portrait Video Style Transfer**
+
+#### Video Editing
 
 * **[VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild](https://github.com/vinthony/video-retalking)**
 * **[Stitch it in Time: GAN-Based Facial Editing of Real Videos](https://arxiv.org/pdf/2201.08361.pdf)**
 
 
-##### Hair Modeling
+#### Hair Modeling
 
 * **[DeepMVSHair: Deep Hair Modeling from Sparse Views]()**
 
-##### VR,MR,HCI
+#### VR,MR,HCI
 
 * **[Force-Aware Interface via Electromyography for Natural VR/AR Interaction](https://www.immersivecomputinglab.org/wp-content/uploads/2022/10/xr-emg-force-interface.pdf)**
 
@@ -236,7 +242,7 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 
 
 
-##### Motion capture
+#### Motion capture
 
 * **[QuestSim: Human Motion Tracking from Sparse Sensors with Simulated Avatars](https://arxiv.org/pdf/2209.09391.pdf)**
 * **[Video-driven Neural Physically-based Facial Asset for Production](https://sites.google.com/view/npfa/)**]
@@ -245,15 +251,13 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 
 
 
-##### Graphics systems and interfaces
+#### Graphics systems and interfaces
 
 * **[DifferSketching: How Differently Do People Sketch 3D Objects?](https://chufengxiao.github.io/DifferSketching/)** **[[<u>code</u>]](https://github.com/wildmeshing/wildmeshing-toolkit)**
 
 * **[Neural Brushstroke Engine: Learning a Latent Style Space of Interactive Drawing Tools]()**
 
 
-#####  GAMES
+####  GAMES
 
 * **Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation 将Sprite进行解构**
-
-
