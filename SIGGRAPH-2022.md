@@ -212,8 +212,8 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 * **[Garment Avatars: Realistic Cloth Driving using Pattern Registration](https://arxiv.org/pdf/2206.03373.pdf)**
 * **[Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://github.com/Aubrey-ao/HumanBehaviorAnimation)**
 * **[SCULPTOR: Skeleton-Consistent Face Creation Using a Learned Parametric Generator]()**
-* **[Text2Light: Zero-Shot Text-Driven HDR Panorama Generation](https://arxiv.org/abs/2209.09898)** **[<u>code</u>]**
-* **NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields**
+* **[Text2Light: Zero-Shot Text-Driven HDR Panorama Generation](https://arxiv.org/abs/2209.09898)** **[<u>code</u>]()**
+* **[NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields](http://geometrylearning.com/NeRFFaceEditing/)**
 * **[Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers]()**
 
 
