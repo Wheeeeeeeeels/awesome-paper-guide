@@ -16,7 +16,7 @@
 
 * **[Differentiable Simulation of Inertial Musculotendons](https://arxiv.org/abs/2202.02344)**
 
-* **A Monte Carlo Method for Fluid Simulation(Modeling and simulation)**
+* **[A Monte Carlo Method for Fluid Simulation(Modeling and simulation)](https://riouxld21.github.io/research/publication/2022-mcfluid/)**
 
 * **ElastoMonolith: A Monolithic Optimization-based Liquid Solver for
 Contact-Aware Elastic-Solid Coupling(基于物理的仿真)**
