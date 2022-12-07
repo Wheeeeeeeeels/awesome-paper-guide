@@ -1,14 +1,16 @@
 ## SIGGRAPH ASIA 2022
 
-### Physical simulation
+### Simulation/Animation
 
 * **A Biologically Inspired Hair Aging Model**
 
-* **Interactive Exploration of Tension-compression Mixed Shells(Mechanics) 力学**
+* **[Interactive Exploration of Tension-compression Mixed Shells](http://mmiki.wikidot.com/kingofmonsters)(Mechanics) 力学**
 
-* **Differentiable Hybrid Traffic Simulation** **交通-仿真**
 
-* **Breaking Good: Fracture Modes for Realtime Destruction** **力学**
+##### Real-Time Simulation
+
+* **[Differentiable Hybrid Traffic Simulation](https://ylqiao.net/publication/traffic2022/)** **[<u>code</u>](https://github.com/SonSang/diff-hybrid-traffic-sim)**
+
 
 * **Fluidic Topology Optimization with an Anisotropic Mixture Model 流体力学**
 
@@ -48,8 +50,9 @@ Grid-Based Fluids**
 
 ####  Physically-based simulation
 
-* **ElastoMonolith: A Monolithic Optimization-based Liquid Solver for
-Contact-Aware Elastic-Solid Coupling** *
+* **[Breaking Good: Fracture Modes for Realtime Destruction](https://www.dgp.toronto.edu/projects/breaking-good/fracture-harmonics.pdf)** **[<u>code</u>](https://github.com/sgsellan/fracture-modes)**
+
+* **[ElastoMonolith: A Monolithic Optimization-based Liquid Solver for Contact-Aware Elastic-Solid Coupling](https://tetsuya-takahashi.github.io/ElastoMonolith/)**
 
 ### Rendering
 
@@ -197,7 +200,13 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 
 ### TOOLS
 
-* **Interactive and Robust Mesh Booleans**
+
+#### Mesh Tools
+
+
+* **[Interactive and Robust Mesh Booleans](https://arxiv.org/pdf/2205.14151.pdf)** **[<u>code</u>](https://github.com/gcherchi/InteractiveAndRobustMeshBooleans)**
+
+
 * **Make Your Own Sprites: Aliasing-Aware and Cell-Controllable Pixelization**
 
 ### APPLICATION
@@ -260,3 +269,8 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 ####  GAMES
 
 * **[Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation 将Sprite进行解构](https://lllyasviel.github.io/Style2PaintsResearch/sa2022/index.html)**
+
+
+[Reference]
+
+* [大规模网格模型间的快速视觉布尔运算](http://www.xml-data.org/JSJYY/2017-7-2050.htm)
