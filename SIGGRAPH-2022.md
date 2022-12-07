@@ -14,7 +14,7 @@
 
 * **[Fluidic Topology Optimization with an Anisotropic Mixture Model](https://people.csail.mit.edu/liyifei/publication/anisotropicstokes/)**
 
-* **Differentiable Simulation of Inertial Musculotendons**
+* **[Differentiable Simulation of Inertial Musculotendons](https://arxiv.org/abs/2202.02344)**
 
 * **A Monte Carlo Method for Fluid Simulation(Modeling and simulation)**
 
