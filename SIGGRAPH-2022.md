@@ -12,7 +12,7 @@
 * **[Differentiable Hybrid Traffic Simulation](https://ylqiao.net/publication/traffic2022/)** **[<u>code</u>](https://github.com/SonSang/diff-hybrid-traffic-sim)**
 
 
-* **Fluidic Topology Optimization with an Anisotropic Mixture Model 流体力学**
+* **[Fluidic Topology Optimization with an Anisotropic Mixture Model](https://people.csail.mit.edu/liyifei/publication/anisotropicstokes/)**
 
 * **Differentiable Simulation of Inertial Musculotendons**
 
