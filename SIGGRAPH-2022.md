@@ -248,7 +248,7 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 #### Motion capture
 
 * **[QuestSim: Human Motion Tracking from Sparse Sensors with Simulated Avatars](https://arxiv.org/pdf/2209.09391.pdf)**
-* **[Video-driven Neural Physically-based Facial Asset for Production](https://sites.google.com/view/npfa/)**]
+* **[Video-driven Neural Physically-based Facial Asset for Production](https://sites.google.com/view/npfa/)**
 * **[Transformer Inertial Poser: Real-time Human Motion Reconstruction from Sparse IMUs with Simultaneous Terrain](https://arxiv.org/pdf/2203.15720.pdf)**
 * **[Morig: Motion-aware rigging of character meshes from point clouds](https://zhan-xu.github.io/motion-rig/)**
 
