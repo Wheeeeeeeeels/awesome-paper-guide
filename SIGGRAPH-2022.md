@@ -7,7 +7,7 @@
 * **[Interactive Exploration of Tension-compression Mixed Shells](http://mmiki.wikidot.com/kingofmonsters)(Mechanics) 力学**
 
 
-##### Real-Time Simulation
+#### Real-Time Simulation
 
 * **[Differentiable Hybrid Traffic Simulation](https://ylqiao.net/publication/traffic2022/)** **[<u>code</u>](https://github.com/SonSang/diff-hybrid-traffic-sim)**
 
@@ -37,7 +37,7 @@ Grid-Based Fluids**
 
 #### Physics-Based Animation
 
-##### GarmentS
+#### Garments
 
 * **[Motion Guided Deep Dynamic 3D Garments](http://geometry.cs.ucl.ac.uk/publications.php)** **[<u>code</u>](https://github.com/MengZephyr/Motion-Guided-Deep-Dynamic-3D-Garment)**
 
@@ -96,7 +96,7 @@ Grid-Based Fluids**
 
 * **Metappearance: Meta-Learning for Visual Appearance Reproduction**
 
-##### Reflectance modeling.
+#### Reflectance modeling.
 
 * [Woven Fabric Capture from a Single Photo](https://wangningbei.github.io/2022/Fabrics_files/paper_InverseSpongeCake.pdf)
 
@@ -197,16 +197,11 @@ Simulated Clothing](https://research.facebook.com/publications/dressing-avatars-
 * **[NeuralRoom: Geometry-Constrained Neural Implicit Surfaces for Indoor Scene Reconstruction}(https://arxiv.org/pdf/2210.06853.pdf)**
 * **[FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing](https://arxiv.org/pdf/2208.05751.pdf)**
 
-
 ### TOOLS
-
 
 #### Mesh Tools
 
-
 * **[Interactive and Robust Mesh Booleans](https://arxiv.org/pdf/2205.14151.pdf)** **[<u>code</u>](https://github.com/gcherchi/InteractiveAndRobustMeshBooleans)**
-
-
 * **Make Your Own Sprites: Aliasing-Aware and Cell-Controllable Pixelization**
 
 ### APPLICATION
